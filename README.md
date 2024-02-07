@@ -1,5 +1,4 @@
 # Mangueras Musmanno Rock Festival
-*Actividad Git*
 
 ## Introducción
 Marzo, época de Lollapallooza. ¿Van? Sin embargo, hay otro festival en esta época, el Musmanno Rock Festival: https://www.youtube.com/watch?v=PwUiwtrIbgQ.
