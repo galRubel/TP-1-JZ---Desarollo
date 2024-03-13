@@ -7,7 +7,7 @@ Marzo, época de Lollapallooza. ¿Van? Sin embargo, hay otro festival en esta é
 Pónganse en parejas. Uno va a ser CM (Community Manager) de Twitter/X, y el otro CM de Instagram. Vamos a abreviarlos **CMX** y **CMI**. Es importante que se acuerden y asignen roles para la actividad que viene.
 
 ### Parte 1
-**CMX** descarga los archivos del repositorio linkeado debajo y los sube a un nuevo repositorio propio. **CMX** lo agrega a **CMI** como colaborador. Para más información de como hacer esto, pueden leer en https://docs.github.com/en/authentication/managing-access-to-your-repositories/inviting-collaborators-to-a-personal-repository. Tanto **CMX** como **CMI** deben clonar el repositorio en sus máquinas.
+**CMX** descarga los archivos del repositorio linkeado debajo y los sube a un nuevo repositorio propio. **CMX** lo agrega a **CMI** como colaborador. Para más información de como hacer esto, pueden leer en [https://docs.github.com/en/authentication/managing-access-to-your-repositories/inviting-collaborators-to-a-personal-repository](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-access-to-your-projects). Tanto **CMX** como **CMI** deben clonar el repositorio en sus máquinas.
 
 ### Parte 2
 Antes del festival, se bajan 2 bandas a último momento, una del excenario huawei y otra del escenario indie (elijan ustedes cuales). Queda a cargo de los CM's encontrar reemplazos a último momento. 
